@@ -4,3 +4,7 @@
 ## encabezado mediano
 
 ###### Encabezado mas pequeño
+
+## Texto basico
+
+**negrita**
