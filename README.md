@@ -8,4 +8,6 @@
 ## Texto basico
 
 **negrita** ó __negrita__
-*cursiva*   ó  __cursiva__
+*cursiva*   ó  _cursiva_
+~~tachado~~
+'codigo'
