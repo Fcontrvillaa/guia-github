@@ -7,4 +7,5 @@
 
 ## Texto basico
 
-**negrita**
+**negrita** ó __negrita__
+*cursiva*   ó  __cursiva__
